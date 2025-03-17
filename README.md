@@ -1,2 +1,2 @@
-# SmartPay-AI
+
 <h1>Smart-Pay AI is an innovative digital payment app designed to enhance financial management through AI-driven insights. It automatically categorizes expenses, tracks spending habits, and predicts future transactions using machine learning and Google Gemini APIs. Unlike traditional payment apps, SmartPay AI offers real-time budgeting recommendations, voice-based transactions, and predictive analytics to prevent overspending.​</h1>
