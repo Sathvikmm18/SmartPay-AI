@@ -1,4 +1,5 @@
 # SmartPay-AI 🚀
+![Screenshot 2025-03-25 182516](https://github.com/user-attachments/assets/a4d6d31f-e579-4e54-ad8c-de0fa781845e)
 
 ### Transforming Digital Payments with AI-Powered Financial Insights
 
