@@ -1,5 +1,4 @@
 # SmartPay-AI 🚀
-![Screenshot 2025-03-25 182516](https://github.com/user-attachments/assets/a4d6d31f-e579-4e54-ad8c-de0fa781845e)
 
 ### Transforming Digital Payments with AI-Powered Financial Insights
 
@@ -24,6 +23,7 @@ SmartPay-AI is an AI-driven digital payment platform designed to revolutionize f
 3. **Predictive Analytics**: Future expense forecasting for smarter decision-making.
 4. **Voice & Chatbot Assistance**: Hands-free financial management.
 5. **Financial Health Reports**: AI-generated insights for better financial habits.
+![Screenshot 2025-03-25 182516](https://github.com/user-attachments/assets/a4d6d31f-e579-4e54-ad8c-de0fa781845e)
 
 ## 🛠️ Tech Stack
 ### 🔹 Google Technologies
